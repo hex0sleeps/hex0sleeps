@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/F6YFd7J.png" width="100"/>
-<p><a href="https://youtube.com/@zilxen?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube Badge"></a><a href="https://twitter.com/zilxen"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter Badge"> </a><a href="https://twitter.com/zilxen"><img src="https://img.shields.io/badge/Zilxen.eu(v. 0.4.5)-black?style=for-the-badge&amp;logo=&amp;logoColor=white" alt="Website Badge"></a></p>
+<p><a href="https://youtube.com/@zilxen?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube Badge"></a><a href="https://twitter.com/zilxen"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter Badge"> </a><a href="https://twitter.com/zilxen"><img src="https://img.shields.io/badge/Zilxen.eu-black?style=for-the-badge&amp;logo=&amp;logoColor=white" alt="Website Badge"></a></p>
 <p><img src="https://komarev.com/ghpvc/?username=zilxen" alt=""></p>
 
 </div>

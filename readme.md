@@ -27,3 +27,4 @@
 <p><a href="https://github.com/zilxen/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilxen" alt="Top Langs"></a> </p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=zilxen&hide=contribs,prs" alt="Anurag&#39;s GitHub stats"></p>
 </div>
+[//]: <> (Zil = 0; x ;ASC2)
